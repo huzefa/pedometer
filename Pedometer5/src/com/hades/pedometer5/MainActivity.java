@@ -1,6 +1,7 @@
 /*
  *  I have edited some of the support classes authored by Kirill Morozov.
  *  The classes edited are LineSegment.java and MapView.java.
+ *  Copyright 2013 Huzefa Fatakdawala
  */
 package com.hades.pedometer5;
 
