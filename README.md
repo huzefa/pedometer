@@ -1,6 +1,8 @@
 pedometer
 =========
 
+This project is SUSPENDED at this time.
+
 The project was moved from the SVN repository on the ECE department servers.
 
 - Count the number of footsteps (may be inaccurate on your device)
