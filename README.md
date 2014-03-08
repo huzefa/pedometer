@@ -10,4 +10,4 @@ The project was moved from the SVN repository on the ECE department servers.
 - Shows a path from the start point to the end point on a simple SVG map (provided to us). This is the navigational logic.
 - Shows what direction you're heading in.
 
-Note: Experimenting with travis-cl.
+Note: Experimenting with travis-ci.
