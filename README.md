@@ -9,3 +9,5 @@ The project was moved from the SVN repository on the ECE department servers.
 - Does NOT use GPS. It only uses the accelerometer and rotation sensor.
 - Shows a path from the start point to the end point on a simple SVG map (provided to us). This is the navigational logic.
 - Shows what direction you're heading in.
+
+Note: Experimenting with travis-cl.
